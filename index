@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Maskani Privacy Policy</title>
+
+    <style>
+        body {
+            font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #0d0d0d;
+            color: #e0e0e0;
+            margin: 0;
+            padding: 0;
+            line-height: 1.7;
+        }
+
+        /* HEADER */
+        header {
+            background: linear-gradient(135deg, #0a5c38, #b8860b);
+            color: #fff;
+            text-align: center;
+            padding: 50px 20px;
+            border-bottom: 4px solid #0a4a2e;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 2.2rem;
+            font-weight: 700;
+        }
+
+        header p {
+            margin-top: 8px;
+            opacity: 0.9;
+            font-size: 0.95rem;
+        }
+
+        /* MAIN CONTAINER */
+        main {
+            max-width: 900px;
+            margin: 40px auto;
+            background: #1a1a1c;
+            padding: 35px;
+            border-radius: 14px;
+            box-shadow: 0 0 25px rgba(0,0,0,0.45);
+        }
+
+        h2 {
+            color: #4ed19c;
+            border-left: 4px solid #4ed19c;
+            padding-left: 10px;
+            margin-top: 28px;
+            font-size: 1.3rem;
+        }
+
+        p, li {
+            color: #d6d6d6;
+            font-size: 15px;
+        }
+
+        a {
+            color: #4fdba7;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        ul {
+            margin-left: 20px;
+        }
+
+        /* FOOTER */
+        footer {
+            text-align: center;
+            padding: 20px;
+            color: #999;
+            border-top: 1px solid #333;
+            margin-top: 40px;
+            font-size: 0.9rem;
+        }
+
+        @media (max-width: 600px) {
+            main {
+                margin: 20px;
+                padding: 22px;
+            }
+            header h1 {
+                font-size: 1.7rem;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>MASKANI PLATFORM PRIVACY STATEMENT</h1>
+    <p>Effective Date: December 1, 2025</p>
+</header>
+
+<main>
+
+    <p>
+        This Privacy Statement explains how <strong>TENGAMALI REALTORS LTD.</strong> ("Maskani," "We," "Us," or "Our"), the owner and operator of the MASKANI Platform, collects, uses, protects, and shares the personal information of its Users, Agents, and third-party partners. We are committed to safeguarding your privacy in full compliance with the laws of the Republic of Kenya.
+    </p>
+
+    <h2>1. ACCEPTANCE OF THIS STATEMENT</h2>
+    <p>
+        By accessing or utilizing the MASKANI Platform, you explicitly consent to the collection, processing, and disclosure of your Personal Data as described in this Statement. If you do not agree with any part of this policy, you must discontinue use of the Platform immediately.
+    </p>
+
+    <h2>2. DEFINITIONS</h2>
+    <ul>
+        <li><strong>Personal Data:</strong> Information relating to an identified or identifiable natural person (e.g., name, ID number, location data, online identifiers).</li>
+        <li><strong>Agent Data:</strong> Data collected specifically from Agents including verification documents, facial images, performance metrics, and banking details.</li>
+        <li><strong>Non-Identifiable Data:</strong> Aggregated or anonymized data that cannot be used to identify an individual.</li>
+    </ul>
+
+    <h2>3. DATA COLLECTION AND USE</h2>
+    <p>
+        We collect data necessary for delivering our core services (verified house hunting and transaction management) and enabling our business model (data analytics & monetization).
+    </p>
+
+    <table style="width:100%; border-collapse: collapse; margin-top:16px; margin-bottom:20px;">
+        <tr style="background:#222;">
+            <th style="padding:10px; border:1px solid #333;">Category</th>
+            <th style="padding:10px; border:1px solid #333;">Examples of Data</th>
+            <th style="padding:10px; border:1px solid #333;">Purpose of Collection</th>
+        </tr>
+
+        <tr>
+            <td style="padding:10px; border:1px solid #333;">A. Registration Data</td>
+            <td style="padding:10px; border:1px solid #333;">Full legal name, National ID, KRA PIN, email, phone number, passport images, physical address</td>
+            <td style="padding:10px; border:1px solid #333;">Account creation, identity verification (KYC), legal compliance, payout processing</td>
+        </tr>
+
+        <tr>
+            <td style="padding:10px; border:1px solid #333;">B. Platform Usage Data</td>
+            <td style="padding:10px; border:1px solid #333;">Search history, filters used, session duration, IP address, device info</td>
+            <td style="padding:10px; border:1px solid #333;">Improve search algorithm, enhance user experience, troubleshoot platform issues</td>
+        </tr>
+
+        <tr>
+            <td style="padding:10px; border:1px solid #333;">C. Verification Data (Agents)</td>
+            <td style="padding:10px; border:1px solid #333;">GPS coordinates, property verification images/videos, performance ratings</td>
+            <td style="padding:10px; border:1px solid #333;">Guarantee property authenticity, monitor agent quality, generate market risk data</td>
+        </tr>
+
+        <tr>
+            <td style="padding:10px; border:1px solid #333;">D. Transaction Data</td>
+            <td style="padding:10px; border:1px solid #333;">Service Fee (KES 2,050), agent payout (KES 1,500), payment details, final property choice</td>
+            <td style="padding:10px; border:1px solid #333;">Process payments, compute commissions, validate transactions</td>
+        </tr>
+
+        <tr>
+            <td style="padding:10px; border:1px solid #333;">E. Financial Referral Data</td>
+            <td style="padding:10px; border:1px solid #333;">User-provided details for mortgage or Move-In Financing</td>
+            <td style="padding:10px; border:1px solid #333;">Facilitate partner FinTech services requested by the user</td>
+        </tr>
+    </table>
+
+    <h2>4. DATA SHARING AND DISCLOSURE</h2>
+
+    <p><strong>4.1 Service Provision (Necessary Disclosure)</strong></p>
+    <ul>
+        <li>To Agents — User preferences and target location are shared to facilitate house hunting.</li>
+        <li>To Users — Agent verification status, performance ratings, and profiles are shown to build trust.</li>
+    </ul>
+
+    <p><strong>4.2 B2B Data Monetization (Commercial Use)</strong></p>
+    <p>
+        Maskani aggregates and anonymizes data to produce Market Intelligence Reports. These are sold to:
+    </p>
+    <ul>
+        <li>Real Estate Developers (e.g., Acorn Holdings)</li>
+        <li>Financial Institutions for underwriting and risk assessment</li>
+    </ul>
+
+    <p><strong>4.3 Legal Compliance</strong></p>
+    <p>
+        We may disclose data when required by:
+    </p>
+    <ul>
+        <li>Court orders</li>
+        <li>Government agencies (e.g., KRA)</li>
+        <li>To protect the rights and security of Maskani and its users</li>
+    </ul>
+
+    <h2>5. DATA SECURITY AND RETENTION</h2>
+    <p><strong>5.1 Security:</strong> We use encryption, secure servers, and strict access controls to protect Personal Data.</p>
+    <p><strong>5.2 Retention:</strong> Data is retained only as long as necessary. Agent verification and performance data may be retained permanently to preserve the accuracy of our historical risk models.</p>
+
+    <h2>6. YOUR DATA PROTECTION RIGHTS</h2>
+    <p>Under Kenya's Data Protection Act (2019), you have rights to:</p>
+    <ul>
+        <li>Be informed about data use</li>
+        <li>Access your data</li>
+        <li>Request correction of inaccurate data</li>
+        <li>Object to certain processing</li>
+        <li>Request deletion of your Personal Data (subject to legal obligations)</li>
+    </ul>
+
+    <h2>7. CHANGES TO THIS PRIVACY STATEMENT</h2>
+    <p>
+        Maskani (Tengamali Realtors Ltd.) may revise this Statement periodically. We will notify you of material changes via email or Platform notices. Continued use after changes indicates acceptance.
+    </p>
+
+    <h2>8. CONTACT INFORMATION</h2>
+    <p>For any inquiries or data-related requests, contact:</p>
+    <p>
+        <strong>Data Protection Officer<br/>
+        TENGAMALI REALTORS LTD.<br/>
+        Uwezo Building, Embakasi<br/>
+        P.O BOX 30050 GPO Nairobi</strong>
+    </p>
+
+</main>
+
+<footer>
+    © 2025 Maskani by Tengamali Realtors Ltd. All rights reserved.
+</footer>
+
+</body>
+</html>
